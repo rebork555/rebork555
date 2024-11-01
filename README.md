@@ -1,8 +1,6 @@
 # 👋 ¡Hola! Me llamo Álvaro
 
 Bienvenido a mi perfil de GitHub. Soy un **Analista de Datos de Marketing** con experiencia en proyectos de análisis de datos y visualización, especializado en el uso de **Microsoft Power BI**.
-
-Bienvenido a mi 
 ---
 
 ## 🚀 Proyectos Destacados
