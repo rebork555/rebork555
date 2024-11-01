@@ -43,6 +43,8 @@ Si quieres ver un ejemplo de mi trabajo en Power BI, puedes visitar este [Inform
 
 ## 📍 Ubicación y Modalidad de Trabajo
 - **Trabajo Remoto** y presencial en **Alcalá de Guadaíra**, **Sevilla**, y alrededores.
+  
+---
 
 ## 📫 Contacto
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/marketingdigitall) 
