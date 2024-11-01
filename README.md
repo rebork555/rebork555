@@ -27,6 +27,11 @@ Realizo Indicadores Clave de Rendimiento o KPI y segmentaciones de datos de las 
 - **Microsoft Power BI**: Creación de métricas (medianas, porcentajes, sumas, restas, etc.) y visualización de datos en gráficos interactivos (mapas de geolocalización, gráficos circulares, gráficos de barras, gráficos de líneas, tarjetas visuales, entre otros).
 - **Análisis de Datos de marketing**: Experiencia en análisis de datos para la toma de decisiones estratégicas en marketing.
 
+[![KPI](https://img.shields.io/badge/KPI-00A651?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Performance_indicator)
+[![Data Segmentation](https://img.shields.io/badge/Data%20Segmentation-1F77B4?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Market_segmentation)
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6347?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Data_visualization)
+[![Marketing Analysis](https://img.shields.io/badge/Marketing%20Analysis-FF4500?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Marketing_analysis)
+
 ---
 
 ## 📊 Ejemplo de Informe de Marketing
@@ -39,25 +44,23 @@ Si quieres ver un ejemplo de mi trabajo en Power BI, puedes visitar este [Inform
 - **Herramientas**: Microsoft Excel, Microsoft Power BI, Pentaho, y Jupyter Notebook, Git, Github, Dockers, BigQuery
 - **Machine Learning**: Scikit-Learn, Pandas, Numpy
 
-[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=microsoft-sql-server&logoColor=white&style=flat)](https://en.wikipedia.org/wiki/SQL) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/) 
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=microsoft-sql-server&logoColor=white&style=flat)](https://en.wikipedia.org/wiki/SQL) 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/) 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)](https://powerbi.microsoft.com/) [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)](https://www.microsoft.com/es-es/microsoft-365/excel)
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat)](https://www.r-project.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)](https://jupyter.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/rebork555)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)](https://pandas.pydata.org/)
-[![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=flat)](https://numpy.org/)
-[![KPI](https://img.shields.io/badge/KPI-00A651?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Performance_indicator)
-[![Data Segmentation](https://img.shields.io/badge/Data%20Segmentation-1F77B4?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Market_segmentation)
-[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6347?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Data_visualization)
-[![Remote Work](https://img.shields.io/badge/Remote%20Work-009688?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Remote_work)
-[![Marketing Analysis](https://img.shields.io/badge/Marketing%20Analysis-FF4500?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Marketing_analysis)
+
 
 ---
 
 ## 📍 Ubicación y Modalidad de Trabajo
 - **Trabajo Remoto** y presencial en **Alcalá de Guadaíra**, **Sevilla**, y alrededores.
-  
+  [![Remote Work](https://img.shields.io/badge/Remote%20Work-009688?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Remote_work)
+
 ---
 
 ## 📫 Contacto
