@@ -38,10 +38,6 @@ Si quieres ver un ejemplo de mi trabajo en Power BI, puedes visitar este [Inform
 - **Lenguajes**: SQL, python, R, y DAX 
 - **Herramientas**: Microsoft Excel, Microsoft Power BI, Pentaho, y Jupyter Notebook, Git, Github, Dockers, BigQuery
 - **Machine Learning**: Scikit-Learn, Pandas, Numpy
-- [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)](https://powerbi.microsoft.com/)
-
-- ![Power BI Logo](https://img.icons8.com/color/48/000000/power-bi.png)
-
 
 ---
 
