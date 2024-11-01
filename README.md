@@ -45,7 +45,7 @@ Si quieres ver un ejemplo de mi trabajo en Power BI, puedes visitar este [Inform
 - **Lenguajes**: Python, SQL
 - **Herramientas**: Power BI, Jupyter Notebook, Git
 - **Machine Learning**: Scikit-Learn, Pandas, Numpy
-
+- **Microsoft Power BI** ![Power BI Icon](https://img.shields.io/badge/PowerBI-yellow?logo=PowerBI&logoColor=white&style=flat-square): Creación de métricas (medianas, porcentajes, sumas, restas, etc.) y visualización de datos en gráficos interactivos (mapas de geolocalización, gráficos circulares, gráficos de barras, gráficos de líneas, tarjetas visuales, entre otros).
 ---
 
 ## 📍 Ubicación y Modalidad de Trabajo
