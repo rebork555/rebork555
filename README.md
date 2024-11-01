@@ -60,6 +60,7 @@ Si quieres ver un ejemplo de mi trabajo en Power BI, puedes visitar este [Inform
 
 ## 📍 Ubicación y Modalidad de Trabajo
 - **Trabajo Remoto** y presencial en **Alcalá de Guadaíra**, **Sevilla**, y alrededores.
+
   [![Remote Work](https://img.shields.io/badge/Remote%20Work-009688?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Remote_work)
 
 ---
