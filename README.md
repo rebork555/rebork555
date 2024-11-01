@@ -51,9 +51,9 @@ Si quieres ver un ejemplo de mi trabajo en Power BI, puedes visitar este [Inform
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)](https://jupyter.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/rebork555)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)](https://scikit-learn.org/)
+[![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=flat)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)](https://pandas.pydata.org/)
-
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)](https://scikit-learn.org/)
 
 ---
 
