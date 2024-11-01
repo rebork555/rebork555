@@ -7,7 +7,7 @@ Realizo Indicadores Clave de Rendimiento o KPI y segmentaciones de datos de las 
 ---
 
 ## 🚀 Proyectos Destacados
-- **[📊 Análisis de Datos de Marketing](https://github.com/rebork555/Analisis-de-datos-de-marketing)**  
+- **[- ![Power BI Logo](https://img.icons8.com/color/48/000000/power-bi.png) Análisis de Datos de Marketing](https://github.com/rebork555/Analisis-de-datos-de-marketing)**  
   Realizo indicadores clave (KPIs) y segmentaciones de datos de campañas de marketing para identificar perfiles de clientes utilizando Microsoft Power BI y Python.
 
 - **[🔍 Detección de Fraude en Tarjetas de Crédito con Machine Learning](https://github.com/rebork555/Analisis-de-datos-de-marketing/blob/main/ML%20credit%20card%20frauds%20prediction.ipynb)**  
