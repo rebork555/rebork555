@@ -24,7 +24,7 @@ Realizo Indicadores Clave de Rendimiento o KPI y segmentaciones de datos de las 
 ## 🎯 Habilidades
 - **Indicadores Clave de Rendimiento (KPIs)**: Realizo KPIs y segmentaciones de datos de campañas de marketing, trabajando con métricas como edades, rangos de renta, tipos de productos y más, para identificar perfiles de cliente.
 - **Microsoft Power BI**: Creación de métricas (medianas, porcentajes, sumas, restas, etc.) y visualización de datos en gráficos interactivos (mapas de geolocalización, gráficos circulares, gráficos de barras, gráficos de líneas, tarjetas visuales, entre otros).
-- **Análisis de Datos**: Experiencia en análisis de datos para la toma de decisiones estratégicas en marketing.
+- **Análisis de Datos de marketing**: Experiencia en análisis de datos para la toma de decisiones estratégicas en marketing.
 
 ---
 
