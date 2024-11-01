@@ -39,6 +39,20 @@ Si quieres ver un ejemplo de mi trabajo en Power BI, puedes visitar este [Inform
 - **Herramientas**: Microsoft Excel, Microsoft Power BI, Pentaho, y Jupyter Notebook, Git, Github, Dockers, BigQuery
 - **Machine Learning**: Scikit-Learn, Pandas, Numpy
 
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=microsoft-sql-server&logoColor=white&style=flat)](https://en.wikipedia.org/wiki/SQL) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/) 
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)](https://powerbi.microsoft.com/) [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)](https://www.microsoft.com/es-es/microsoft-365/excel)
+[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat)](https://www.r-project.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)](https://jupyter.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)](https://git-scm.com/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)](https://pandas.pydata.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=flat)](https://numpy.org/)
+[![KPI](https://img.shields.io/badge/KPI-00A651?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Performance_indicator)
+[![Data Segmentation](https://img.shields.io/badge/Data%20Segmentation-1F77B4?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Market_segmentation)
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6347?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Data_visualization)
+[![Remote Work](https://img.shields.io/badge/Remote%20Work-009688?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Remote_work)
+[![Marketing Analysis](https://img.shields.io/badge/Marketing%20Analysis-FF4500?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Marketing_analysis)
+
 ---
 
 ## 📍 Ubicación y Modalidad de Trabajo
@@ -52,10 +66,6 @@ Si quieres ver un ejemplo de mi trabajo en Power BI, puedes visitar este [Inform
 - [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&style=flat)](https://www.facebook.com/profile.php?id=61562190575145&sk=about_privacy_and_legal_info)
 - [🌐 Página Web](https://marketingg.mobirisesite.com/)
 - [![Correo Electrónico](https://img.shields.io/badge/Email-red?logo=gmail&style=flat)](mailto:tuemail@ejemplo.com)
-
-[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=microsoft-sql-server&logoColor=white&style=flat)](https://en.wikipedia.org/wiki/SQL) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/) 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)](https://powerbi.microsoft.com/) [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)](https://www.microsoft.com/es-es/microsoft-365/excel)
-[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat)](https://www.r-project.org/)
 
 
 
