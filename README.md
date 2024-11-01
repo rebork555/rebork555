@@ -27,10 +27,10 @@ Realizo Indicadores Clave de Rendimiento o KPI y segmentaciones de datos de las 
 - **Microsoft Power BI**: Creación de métricas (medianas, porcentajes, sumas, restas, etc.) y visualización de datos en gráficos interactivos (mapas de geolocalización, gráficos circulares, gráficos de barras, gráficos de líneas, tarjetas visuales, entre otros).
 - **Análisis de Datos de marketing**: Experiencia en análisis de datos para la toma de decisiones estratégicas en marketing.
 
+[![Marketing Analysis](https://img.shields.io/badge/Marketing%20Analysis-FF4500?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Marketing_analysis)
 [![KPI](https://img.shields.io/badge/KPI-00A651?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Performance_indicator)
 [![Data Segmentation](https://img.shields.io/badge/Data%20Segmentation-1F77B4?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Market_segmentation)
 [![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6347?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Data_visualization)
-[![Marketing Analysis](https://img.shields.io/badge/Marketing%20Analysis-FF4500?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Marketing_analysis)
 
 ---
 
