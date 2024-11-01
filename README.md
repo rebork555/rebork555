@@ -47,6 +47,7 @@ Si quieres ver un ejemplo de mi trabajo en Power BI, puedes visitar este [Inform
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=microsoft-sql-server&logoColor=white&style=flat)](https://en.wikipedia.org/wiki/SQL) 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/) 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)](https://powerbi.microsoft.com/) [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)](https://www.microsoft.com/es-es/microsoft-365/excel)
+[![Pentaho](https://img.shields.io/badge/Pentaho-4B9CD3?logo=Pentaho&logoColor=white&style=flat)](https://www.pentaho.com/)
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat)](https://www.r-project.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)](https://jupyter.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)](https://git-scm.com/)
