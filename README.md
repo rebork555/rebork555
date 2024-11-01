@@ -28,14 +28,6 @@ Realizo Indicadores Clave de Rendimiento o KPI y segmentaciones de datos de las 
 
 ---
 
-## 🌐 Presencia en Línea
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/marketingdigitall) 
-- [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=flat)](https://www.instagram.com/rebork556/)
-- [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&style=flat)](https://www.facebook.com/profile.php?id=61562190575145&sk=about_privacy_and_legal_info)
-- [🌐 Página Web](https://marketingg.mobirisesite.com/)
-
----
-
 ## 📊 Ejemplo de Informe de Marketing
 Si quieres ver un ejemplo de mi trabajo en Power BI, puedes visitar este [Informe de Marketing Interactivo](https://app.powerbi.com/view?r=eyJrIjoiYWE0Y2IxMmYtMDM4NS00ZTQ4LThiNTctY2IyYzY4YTZiZGRmIiwidCI6IjJhNGE1YjRkLTY3ODUtNDU1Mi04ZDNmLTU1NDMwMTU0MTNjNCJ9&embedImagePlaceholder=true&pageName=ReportSection2d8b5d06f1b03572ef87), donde se visualizan KPIs y segmentaciones de datos de campañas de marketing.
 
@@ -52,6 +44,10 @@ Si quieres ver un ejemplo de mi trabajo en Power BI, puedes visitar este [Inform
 - **Trabajo Remoto** y presencial en **Alcalá de Guadaíra**, **Sevilla**, y alrededores.
 
 ## 📫 Contacto
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/marketingdigitall) 
+- [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&style=flat)](https://www.instagram.com/rebork556/)
+- [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&style=flat)](https://www.facebook.com/profile.php?id=61562190575145&sk=about_privacy_and_legal_info)
+- [🌐 Página Web](https://marketingg.mobirisesite.com/)
 - [![Correo Electrónico](https://img.shields.io/badge/Email-red?logo=gmail&style=flat)](mailto:tuemail@ejemplo.com)
 
 <!--
