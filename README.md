@@ -1,6 +1,8 @@
 # 👋 ¡Hola! Me llamo Álvaro
 
 ## Bienvenido a mi perfil de GitHub. Soy un **Analista de Datos de Marketing** con experiencia en proyectos de análisis de datos y visualización, especializado en el uso de **Microsoft Power BI**.
+
+### Realizo Indicadores Clave de Rendimiento o KPI y segmentaciones de datos de las campañas de marketing (rangos de edad, rangos de renta, tipos de productos, de establecimientos) para identificar el perfil de cliente de una empresa a través de Microsoft Power BI.
 ---
 
 ## 🚀 Proyectos Destacados
