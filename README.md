@@ -53,6 +53,13 @@ Si quieres ver un ejemplo de mi trabajo en Power BI, puedes visitar este [Inform
 - [🌐 Página Web](https://marketingg.mobirisesite.com/)
 - [![Correo Electrónico](https://img.shields.io/badge/Email-red?logo=gmail&style=flat)](mailto:tuemail@ejemplo.com)
 
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=microsoft-sql-server&logoColor=white&style=flat)](https://en.wikipedia.org/wiki/SQL) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/) 
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)](https://powerbi.microsoft.com/) [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)](https://www.microsoft.com/es-es/microsoft-365/excel)
+[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat)](https://www.r-project.org/)
+
+
+
+
 <!--
 **rebork555/rebork555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
