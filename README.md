@@ -4,6 +4,8 @@ I am a **Marketing Data Analyst** with experience in data visualization and anal
 
 I create Key Performance Indicators (KPIs) and segment data from marketing campaigns (age ranges, income brackets, types of products, and stores) to identify the customer profile of a company using Microsoft Power BI.
 
+[![Marketing Analysis](https://img.shields.io/badge/Marketing%20Analysis-FF4500?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Marketing_analysis)
+
 ---
 
 ## 🚀 Featured Projects
@@ -24,10 +26,9 @@ I create Key Performance Indicators (KPIs) and segment data from marketing campa
 
 ## 🎯 Skills
 - **Key Performance Indicators (KPIs)**: I create KPIs and segment data from marketing campaigns, working with metrics such as age, income brackets, product types, and more to identify customer profiles.
-- **Microsoft Power BI**: Creation of metrics (medians, percentages, sums, subtractions, etc.) and data visualization in interactive graphics (geolocation maps, pie charts, bar charts, line charts, visual cards, among others).
-- **Marketing Data Analysis**: Experience in data analysis for strategic decision-making in marketing.
+- **Data segmentation**: Data segmentation(age ranges, income brackets, types of products, and stores)
+- **Creation of metrics**: Creation of metrics (medians, percentages, sums, subtractions, etc.) and data visualization in interactive graphics (geolocation maps, pie charts, bar charts, line charts, visual cards, among others).
 
-[![Marketing Analysis](https://img.shields.io/badge/Marketing%20Analysis-FF4500?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Marketing_analysis)
 [![KPI](https://img.shields.io/badge/KPI-00A651?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Performance_indicator)
 [![Data Segmentation](https://img.shields.io/badge/Data%20Segmentation-1F77B4?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Market_segmentation)
 [![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6347?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Data_visualization)
