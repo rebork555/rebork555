@@ -17,7 +17,7 @@ Realizo Indicadores Clave de Rendimiento o KPI y segmentaciones de datos de las 
 - **[🤖 Programa de Aprendizaje Automático para Aumentar Ventas](https://github.com/rebork555/Analisis-de-datos-de-marketing/blob/main/Programa_aprendizaje_autom%C3%A1tico_marketing.ipynb)**  
   Desarrollo de un modelo de machine learning para predecir el aumento de ventas en campañas de marketing. Proyecto basado en Python y aprendizaje supervisado.
 
-- **[📈 Gestión de Clientes para Marketing con Python](https://github.com/rebork555/Analisis-de-datos-de-marketing/blob/main/programa_para_gestionar_clientes_curso_python_ibm_bejob.ipynb)**  
+- **[🌐 Gestión de Clientes para Marketing con Python](https://github.com/rebork555/Analisis-de-datos-de-marketing/blob/main/programa_para_gestionar_clientes_curso_python_ibm_bejob.ipynb)**  
   Programa en Python para gestionar datos de clientes con el objetivo de optimizar campañas de marketing. Proyecto realizado como parte del curso de Python de IBM.
 
 ---
