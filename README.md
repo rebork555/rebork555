@@ -8,7 +8,7 @@ Realizo Indicadores Clave de Rendimiento o KPI y segmentaciones de datos de las 
 
 ## 🚀 Proyectos Destacados
 
-- **[![Power BI Logo](https://img.icons8.com/color/48/000000/power-bi.png)](https://app.powerbi.com/view?r=eyJrIjoiYWE0Y2IxMmYtMDM4NS00ZTQ4LThiNTctY2IyYzY4YTZiZGRmIiwidCI6IjJhNGE1YjRkLTY3ODUtNDU1Mi04ZDNmLTU1NDMwMTU0MTNjNCJ9&embedImagePlaceholder=true&pageName=ReportSection2d8b5d06f1b03572ef87) [Análisis de Datos de Marketing](https://github.com/rebork555/Analisis-de-datos-de-marketing/blob/main/pdfjs/Dashboard_Marketing_Data_Analysis.pdf)**  
+- **[![Power BI Logo](https://img.icons8.com/color/48/000000/power-bi.png)](https://app.powerbi.com/view?r=eyJrIjoiYWE0Y2IxMmYtMDM4NS00ZTQ4LThiNTctY2IyYzY4YTZiZGRmIiwidCI6IjJhNGE1YjRkLTY3ODUtNDU1Mi04ZDNmLTU1NDMwMTU0MTNjNCJ9&embedImagePlaceholder=true&pageName=ReportSection2d8b5d06f1b03572ef87) [Análisis de Datos de Marketing]([https://github.com/rebork555/Analisis-de-datos-de-marketing/blob/main/pdfjs/Dashboard_Marketing_Data_Analysis.pdf](https://github.com/rebork555/Analisis-de-datos-de-marketing/blob/main/pdfjs/Dashboard%20Marketing%20Data%20Analysis.pdf))**  
   Realizo indicadores clave (KPIs) y segmentaciones de datos de campañas de marketing para identificar perfiles de clientes utilizando Microsoft Power BI y Python.
 
 
